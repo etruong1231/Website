@@ -1,3 +1,12 @@
+
+.page {
+	height: auto;
+	width: auto;
+	margin-left: 100px;
+}
+
+
+
 .navigation {
 	background-color: transparent;
 	height: auto;
